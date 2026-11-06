@@ -1,0 +1,19 @@
+{
+  "FolderOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"obj_testobject","order":1,"path":"objects/obj_testobject/obj_testobject.yy",},
+    {"name":"obj_gmlive","order":6,"path":"objects/obj_gmlive/obj_gmlive.yy",},
+    {"name":"GMLive_noDeactivate","order":2,"path":"scripts/GMLive_noDeactivate/GMLive_noDeactivate.yy",},
+    {"name":"spr_1x1","order":2,"path":"sprites/spr_1x1/spr_1x1.yy",},
+    {"name":"Init","order":1,"path":"rooms/Init/Init.yy",},
+    {"name":"GMLive_fallback","order":1,"path":"extensions/GMLive_fallback/GMLive_fallback.yy",},
+    {"name":"GMLive_notOnce","order":3,"path":"scripts/GMLive_notOnce/GMLive_notOnce.yy",},
+    {"name":"spr_wall","order":1,"path":"sprites/spr_wall/spr_wall.yy",},
+    {"name":"GMLiveAPI_js","order":5,"path":"scripts/GMLiveAPI_js/GMLiveAPI_js.yy",},
+    {"name":"ref","order":5,"path":"sprites/ref/ref.yy",},
+    {"name":"smallfont2_placeholder","order":1,"path":"fonts/smallfont2_placeholder/smallfont2_placeholder.yy",},
+    {"name":"obj_fakereditorercontent","order":2,"path":"objects/obj_fakereditorercontent/obj_fakereditorercontent.yy",},
+    {"name":"GMLiveAPI","order":4,"path":"scripts/GMLiveAPI/GMLiveAPI.yy",},
+    {"name":"spr_fakereditorer_unknown","order":3,"path":"sprites/spr_fakereditorer_unknown/spr_fakereditorer_unknown.yy",},
+  ],
+}
